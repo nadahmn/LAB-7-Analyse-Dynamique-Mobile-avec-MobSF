@@ -7,11 +7,12 @@
 Étape 2 : Cloner MobSF pour utiliser les scripts AVD officiels (2 min)
 
 <img width="464" height="121" alt="image" src="https://github.com/user-attachments/assets/f5ccac6a-6d51-4696-b1c7-ceb6ce585a14" />
-<img width="479" height="219" alt="image" src="https://github.com/user-attachments/assets/0c1ee803-eecc-4a19-a161-f71549952518" />
 
 Étape 3 : Lancement de l’émulateur avec le script MobSF (rooté & prêt pour l’analyse)
 
 <img width="469" height="64" alt="image" src="https://github.com/user-attachments/assets/584f69fb-7622-43ac-88f5-717a82d9c1ae" />
+<img width="479" height="219" alt="image" src="https://github.com/user-attachments/assets/0c1ee803-eecc-4a19-a161-f71549952518" />
+
 
 Puis lancé le conteneur avec la variable MOBSF_ANALYZER_IDENTIFIER positionnée sur l'identifiant ADB de l'émulateur :
 
